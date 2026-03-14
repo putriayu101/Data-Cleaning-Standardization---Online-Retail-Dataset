@@ -22,13 +22,10 @@ This project involves cleaning a **real-world online retail dataset** sourced fr
 | -------------- | ---------------------------------------| ----------- |
 |   UnitPrice    | Missing values                         |   386 rows  |
 |   Raw_Weight   | Missing values + inconsisten format    |   513 rows  | 
-|    Brand       | Missing values + encoding errors +     |   344 rows  |
-|                | inconsistent capitalization                          |
-|   ProductName  | Missing values + encoding errors +     |   96 rows   |
-|                | trademark symbols      
+|    Brand       | Missing values + encoding errors + inconsistent capitalization |   344 rows  |
+|   ProductName  | Missing values + encoding errors + trademark symbols |   96 rows   |
 |   OrderDate    | Missing value                          |   1 row     |
-|   Country      | Missing value + multilingual names +   |   1 row     |
-|                |  irrelevant prefixes                                 |
+|   Country      | Missing value + multilingual names + irrelevant prefixes |   1 row     |
 
 ## 🔦Cleaning Process
 1. **UnitPrice - Missing Values**
