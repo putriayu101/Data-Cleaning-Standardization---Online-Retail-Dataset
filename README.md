@@ -44,18 +44,18 @@ This project involves cleaning a **real-world online retail dataset** sourced fr
    - **Result:** 2,394 rows standardized, 590 marked as `unknown` (513 originally empty, 77 undetermined)
      
 3. **Brand - Encoding Rrrors & Inconsistency**
-   - Fixed broken Latin encoding using **Find & Replace:**
+   - **Fixed broken Latin encoding** using **Find & Replace:**
       - `Ã©` → `é`
       - `â€™` → `'`
       - `Ã¨` → `è`
       - and more...
    - **Non-Latin characters (Arabic, Cyrillic, Emoji) were left as-is (out of cleaning scope)**
-   - Standardized capitalization using `=PROPER(TRIM())`
+   - **Standardized capitalization** using `=PROPER(TRIM())`
    - Filled 334 empty cells with `Unknown`
 4. **ProductName - Encoding & Missing Values**
    - **Removed broken trademark symbols (`Â®`, `â„¢`)** using **Find & Replace**
    - Filled **96 empty cells** with `Unknown`
-   - Standardized capitalization using `=PROPER(TRIM())`
+   - **Standardized capitalization** using `=PROPER(TRIM())`
 
 5. **OrderDate - Missing Value**
    - Deleted 1 empty row (0.03% of total data — not significant)
@@ -67,9 +67,19 @@ This project involves cleaning a **real-world online retail dataset** sourced fr
       - `Argelia` → `Algeria`
       - `Frankreich` → `France`
       - and more...
-   - Standardized capitalization using `=PROPER(TRIM())`
+   - **Standardized capitalization** using `=PROPER(TRIM())`
    - Filled 1 empty cell with `Unknown`
 
+
+## ✅Result
+|   **Column**   | **Before**                        |  **After**  |
+| -------------- | ----------------------------------| ----------- |
+|   UnitPrice    | 386 empty cells                   | All filled (median = 13.16) |
+|   Raw_Weight   | 513 empty + inconsistent format   | Standardized to g/kg/ml/l) | 
+|    Brand       | 344 empty + encoding errors       |  Clean + consistent capitalization  |
+|   ProductName  | 96 empty + encoding errors        | Clean + consistent capitalization |
+|   OrderDate    | 1 empty row                       |  Row deleted (3.000 -> 2.999) |
+|   Country      | Multilingual + prefixes           |  Standardized to English  |
 
 
 
