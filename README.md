@@ -18,14 +18,14 @@ This project involves cleaning a **real-world online retail dataset** sourced fr
 - **Columns:** OrderID, CustomerID, OrderDate, ProductName, Brand, Raw_Weight, 	Country, UnitPrice
 
 ## ⚠️Issues
-|   **Column**   | **Issue**                              |  **Count**  |
-| -------------- | ---------------------------------------| ----------- |
-|   UnitPrice    | Missing values                         |   386 rows  |
-|   Raw_Weight   | Missing values + inconsisten format    |   513 rows  | 
+|   **Column**   | **Issue**                              | **Count**  |
+| -------------- | ---------------------------------------| ---------- |
+|   UnitPrice    | Missing values                         |  386 rows  |
+|   Raw_Weight   | Missing values + inconsisten format    |  513 rows  | 
 |    Brand       | Missing values + encoding errors + inconsistent capitalization |   344 rows  |
-|   ProductName  | Missing values + encoding errors + trademark symbols |   96 rows   |
-|   OrderDate    | Missing value                          |   1 row     |
-|   Country      | Missing value + multilingual names + irrelevant prefixes |   1 row     |
+|   ProductName  | Missing values + encoding errors + trademark symbols |  96 rows  |
+|   OrderDate    | Missing value                          |  1 row     |
+|   Country      | Missing value + multilingual names + irrelevant prefixes |  1 row  |
 
 ## 🔦Cleaning Process
 1. **UnitPrice - Missing Values**
