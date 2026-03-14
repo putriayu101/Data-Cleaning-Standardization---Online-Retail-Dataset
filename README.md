@@ -78,8 +78,20 @@ This project involves cleaning a **real-world online retail dataset** sourced fr
 |   OrderDate    | 1 empty row                       |  Row deleted (3.000 -> 2.999) |
 |   Country      | Multilingual + prefixes           |  Standardized to English  |
 
+## 💡Notes
+- Dataset contains multilingual entries (Arabic, Russian, French) — cleaning was focused on Latin character standardization and format consistency
+- Raw_Weight entries with undetermined units were marked as unknown rather than assumed
+- Two file versions were saved: working file (with helper columns) and final clean file
 
+## 🧰Skills Demonstrated
+- Handling missing values (median imputation, row deletion)
+- Array Formula in Excel
+- Find & Replace for encoding correction
+- Text functions: PROPER(), TRIM(), LEFT(), MID(), FIND(), IFERROR()
+- Data filtering and validation
+- Column extraction and standardization
 
-
-
+## 🌞About
+This project is part of data portfolio.
+📧putriayulw10@gmail.com 🌐https://www.linkedin.com/in/putriayulichawardani 
 
