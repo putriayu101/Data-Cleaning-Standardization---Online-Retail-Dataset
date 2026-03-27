@@ -1,9 +1,9 @@
 # 🧹 Data Cleaning Project — Online Retail Dataset
-### Before Cleaning
-<img width="882" height="520" alt="Screenshot 2026-03-14 141840" src="https://github.com/user-attachments/assets/ebd9fece-4c8f-4f5d-84eb-e4ecff4c7841" />
-
-### After Cleaning
-<img width="882" height="520" alt="image" src="https://github.com/user-attachments/assets/0cbc1fda-b921-473d-83da-b569af06a162" />
+### Process
+<img width="345" height="245" alt="RAW MESSY DATA" src="https://github.com/user-attachments/assets/e11cf625-5cec-41d8-a56b-2cd40446cf42" />
+<img width="345" height="245" alt="Array formula2" src="https://github.com/user-attachments/assets/9a50c6c9-c18a-4551-933e-c17285e2dcef" />
+<img width="345" height="245" alt="Before After" src="https://github.com/user-attachments/assets/19553755-ce7f-4b19-85b2-2b81d9faae8e" />
+<img width="345" height="355" alt="Final dataset" src="https://github.com/user-attachments/assets/a4fc83c2-7810-4464-b68b-71e6d30bbd22" />
 
 
 ## 📌 Project Overview
