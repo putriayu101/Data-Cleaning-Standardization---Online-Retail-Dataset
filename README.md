@@ -137,7 +137,7 @@ Steps taken:
 
 
 ## 🌻 About
-This project is part of my freelance data entry & data cleaning portfolio.
+This project is part of data analyst portfolio.
 
 | | |
 |--|--|
