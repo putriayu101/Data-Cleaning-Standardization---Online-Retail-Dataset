@@ -1,4 +1,4 @@
-# 🧹 Data Cleaning Project — Online Retail Dataset
+# 🧹 Data Cleaning & Standardization - Online Retail Dataset
 ### Process
 <img width="545" height="445" alt="RAW MESSY DATA" src="https://github.com/user-attachments/assets/e11cf625-5cec-41d8-a56b-2cd40446cf42" /> 
 <img width="545" height="445" alt="Array formula2" src="https://github.com/user-attachments/assets/9a50c6c9-c18a-4551-933e-c17285e2dcef" />
