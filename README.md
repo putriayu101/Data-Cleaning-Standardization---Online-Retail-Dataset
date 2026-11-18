@@ -34,7 +34,6 @@ This project demonstrates hands-on data cleaning skills applied to a real-world 
 
 | Info | Detail |
 | ---- | ------ |
-| Source | [Kaggle: Online Retail Real World Dataset](ADD-KAGGLE-LINK-HERE) |
 | Total Rows | 3,000 (after cleaning: 2,999) |
 | Total Columns | 8 |
 | Columns | OrderID, CustomerID, ProductName, Brand, Raw_Weight, Country, OrderDate, UnitPrice |
@@ -159,21 +158,18 @@ Steps taken:
 <!-- Keep your existing image links below; add the captions underneath each one. -->
 
 **1. Raw messy data**
-
-<img width="755" height="445" alt="RAW MESSY DATA" src="https://github.com/user-attachments/assets/e11cf625-5cec-41d8-a56b-2cd40446cf42" /> 
+<img width="755" height="445" alt="RAW MESSY DATA" src="https://github.com/user-attachments/assets/e11cf625-5cec-41d8-a56b-2cd40446cf42" /> <br>
 
 **2. Array formula for the median**
-
-<img width="755" height="445" alt="Array formula2" src="https://github.com/user-attachments/assets/9a50c6c9-c18a-4551-933e-c17285e2dcef" />
+<img width="755" height="445" alt="Array formula2" src="https://github.com/user-attachments/assets/9a50c6c9-c18a-4551-933e-c17285e2dcef" /><br>
 
 **3. Before and after**
-
 <img width="755" height="445" alt="Before After" src="https://github.com/user-attachments/assets/19553755-ce7f-4b19-85b2-2b81d9faae8e" />
+<br>
 
 **4. Final dataset**
-
 <img width="755" height="455" alt="Final dataset" src="https://github.com/user-attachments/assets/a4fc83c2-7810-4464-b68b-71e6d30bbd22" />
-
+<br>
 
 ## 🧰 Excel Skills Demonstrated
 
