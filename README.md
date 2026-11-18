@@ -1,11 +1,4 @@
 # 🧹 Data Cleaning & Standardization - Online Retail Dataset
-### Process
-<img width="755" height="445" alt="RAW MESSY DATA" src="https://github.com/user-attachments/assets/e11cf625-5cec-41d8-a56b-2cd40446cf42" /> 
-<img width="755" height="445" alt="Array formula2" src="https://github.com/user-attachments/assets/9a50c6c9-c18a-4551-933e-c17285e2dcef" />
-<img width="755" height="445" alt="Before After" src="https://github.com/user-attachments/assets/19553755-ce7f-4b19-85b2-2b81d9faae8e" />
-<img width="755" height="455" alt="Final dataset" src="https://github.com/user-attachments/assets/a4fc83c2-7810-4464-b68b-71e6d30bbd22" />
-
-
 ## 📌 Project Overview
 
 This project demonstrates hands-on data cleaning skills applied to a real-world online retail dataset sourced from **Kaggle**. The raw data contained multiple quality issues including missing values, encoding errors, inconsistent formats, and multilingual entries across 6 columns.
@@ -20,7 +13,6 @@ This project demonstrates hands-on data cleaning skills applied to a real-world 
 | `Dataset_Working-OnlineRetail.xlsx` | Working file with all helper columns showing the step-by-step cleaning process |
 | `Dataset_Final-OnlineRetail.xlsx` | Final cleaned dataset — output only, ready for analysis |
 | `Note Cleaning Dataset.md` | Notes detailing the workflow for this project|
-| `Sales Report Presentation.pdf` | PDF file summarizing the project and its results | 
 | `README.md` | Project documentation |
 
 ## 📊 Dataset Information
@@ -137,6 +129,12 @@ Steps taken:
 - **Find & Replace** — bulk encoding correction
 - **Ctrl+G Special → Blanks** — efficient bulk fill of missing values
 - **Data Filter** — isolating and inspecting problem rows
+
+### Process
+<img width="755" height="445" alt="RAW MESSY DATA" src="https://github.com/user-attachments/assets/e11cf625-5cec-41d8-a56b-2cd40446cf42" /> 
+<img width="755" height="445" alt="Array formula2" src="https://github.com/user-attachments/assets/9a50c6c9-c18a-4551-933e-c17285e2dcef" />
+<img width="755" height="445" alt="Before After" src="https://github.com/user-attachments/assets/19553755-ce7f-4b19-85b2-2b81d9faae8e" />
+<img width="755" height="455" alt="Final dataset" src="https://github.com/user-attachments/assets/a4fc83c2-7810-4464-b68b-71e6d30bbd22" />
 
 
 ## 🌻 About
