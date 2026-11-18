@@ -16,8 +16,11 @@ This project demonstrates hands-on data cleaning skills applied to a real-world 
 
 | File | Description |
 |------|-------------|
-| `Dataset_Working.xlsx` | Working file with all helper columns showing the step-by-step cleaning process |
-| `Dataset_Final.xlsx` | Final cleaned dataset — output only, ready for analysis |
+| `online_retail_real+world.csv` | This file contains the dataset used in the project |
+| `Dataset_Working-OnlineRetail.xlsx` | Working file with all helper columns showing the step-by-step cleaning process |
+| `Dataset_Final-OnlineRetail.xlsx` | Final cleaned dataset — output only, ready for analysis |
+| `Note Cleaning Dataset.md` | Notes detailing the workflow for this project|
+| `Sales Report Presentation.pdf` | PDF file summarizing the project and its results | 
 | `README.md` | Project documentation |
 
 ## 📊 Dataset Information
